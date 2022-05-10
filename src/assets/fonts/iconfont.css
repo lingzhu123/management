@@ -1,0 +1,103 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3370932 */
+  src: url('iconfont.woff2?t=1651383849914') format('woff2'),
+       url('iconfont.woff?t=1651383849914') format('woff'),
+       url('iconfont.ttf?t=1651383849914') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-home:before {
+  content: "\e6b8";
+}
+
+.icon-menu:before {
+  content: "\e629";
+}
+
+.icon-sharpicons_edit-user-profile:before {
+  content: "\e840";
+}
+
+.icon-sms-flash:before {
+  content: "\e60c";
+}
+
+.icon-sms-coupon:before {
+  content: "\e60d";
+}
+
+.icon-sms:before {
+  content: "\e60e";
+}
+
+.icon-sms-ad:before {
+  content: "\e60f";
+}
+
+.icon-ums:before {
+  content: "\e610";
+}
+
+.icon-ums-menu:before {
+  content: "\e600";
+}
+
+.icon-ums-admin:before {
+  content: "\e626";
+}
+
+.icon-ums-resource:before {
+  content: "\e628";
+}
+
+.icon-ums-role:before {
+  content: "\e62a";
+}
+
+.icon-order-return:before {
+  content: "\e608";
+}
+
+.icon-order-return-reason:before {
+  content: "\e60a";
+}
+
+.icon-order-setting:before {
+  content: "\e60b";
+}
+
+.icon-order:before {
+  content: "\e7b3";
+}
+
+.icon-product-add:before {
+  content: "\e603";
+}
+
+.icon-product-brand:before {
+  content: "\e604";
+}
+
+.icon-product-list:before {
+  content: "\e605";
+}
+
+.icon-product-cate:before {
+  content: "\e606";
+}
+
+.icon-product-attr:before {
+  content: "\e607";
+}
+
+.icon-product:before {
+  content: "\e75d";
+}
+

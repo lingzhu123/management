@@ -1,0 +1,163 @@
+{
+  "id": "3370932",
+  "name": "vue3后台管理系统",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "33516",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e6b8",
+      "unicode_decimal": 59064
+    },
+    {
+      "icon_id": "1185463",
+      "name": "menu",
+      "font_class": "menu",
+      "unicode": "e629",
+      "unicode_decimal": 58921
+    },
+    {
+      "icon_id": "10574320",
+      "name": "edit-user-profile",
+      "font_class": "sharpicons_edit-user-profile",
+      "unicode": "e840",
+      "unicode_decimal": 59456
+    },
+    {
+      "icon_id": "11219364",
+      "name": "sms-flash",
+      "font_class": "sms-flash",
+      "unicode": "e60c",
+      "unicode_decimal": 58892
+    },
+    {
+      "icon_id": "11219372",
+      "name": "sms-coupon",
+      "font_class": "sms-coupon",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "11219376",
+      "name": "sms",
+      "font_class": "sms",
+      "unicode": "e60e",
+      "unicode_decimal": 58894
+    },
+    {
+      "icon_id": "11219381",
+      "name": "sms-ad",
+      "font_class": "sms-ad",
+      "unicode": "e60f",
+      "unicode_decimal": 58895
+    },
+    {
+      "icon_id": "11219389",
+      "name": "ums",
+      "font_class": "ums",
+      "unicode": "e610",
+      "unicode_decimal": 58896
+    },
+    {
+      "icon_id": "14887580",
+      "name": "ums-menu",
+      "font_class": "ums-menu",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "16474694",
+      "name": "ums-admin",
+      "font_class": "ums-admin",
+      "unicode": "e626",
+      "unicode_decimal": 58918
+    },
+    {
+      "icon_id": "16474700",
+      "name": "ums-resource",
+      "font_class": "ums-resource",
+      "unicode": "e628",
+      "unicode_decimal": 58920
+    },
+    {
+      "icon_id": "16474716",
+      "name": "ums-role",
+      "font_class": "ums-role",
+      "unicode": "e62a",
+      "unicode_decimal": 58922
+    },
+    {
+      "icon_id": "11219358",
+      "name": "order-return",
+      "font_class": "order-return",
+      "unicode": "e608",
+      "unicode_decimal": 58888
+    },
+    {
+      "icon_id": "11219373",
+      "name": "order-return-reason",
+      "font_class": "order-return-reason",
+      "unicode": "e60a",
+      "unicode_decimal": 58890
+    },
+    {
+      "icon_id": "11219377",
+      "name": "order-setting",
+      "font_class": "order-setting",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "12011696",
+      "name": "order",
+      "font_class": "order",
+      "unicode": "e7b3",
+      "unicode_decimal": 59315
+    },
+    {
+      "icon_id": "11219356",
+      "name": "product-add",
+      "font_class": "product-add",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "11219357",
+      "name": "product-brand",
+      "font_class": "product-brand",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    },
+    {
+      "icon_id": "11219367",
+      "name": "product-list",
+      "font_class": "product-list",
+      "unicode": "e605",
+      "unicode_decimal": 58885
+    },
+    {
+      "icon_id": "11219368",
+      "name": "product-cate",
+      "font_class": "product-cate",
+      "unicode": "e606",
+      "unicode_decimal": 58886
+    },
+    {
+      "icon_id": "11219370",
+      "name": "product-attr",
+      "font_class": "product-attr",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "11488100",
+      "name": "product",
+      "font_class": "product",
+      "unicode": "e75d",
+      "unicode_decimal": 59229
+    }
+  ]
+}
